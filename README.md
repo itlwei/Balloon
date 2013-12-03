@@ -1,4 +1,4 @@
-Balloon
+balloon
 =======
 
-Balloon.js - 建造自己的梦想之城！
+balloon.js - 建造自己的梦想之城！
