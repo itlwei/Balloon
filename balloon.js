@@ -10,7 +10,7 @@
  
  *@author:一叶孤舟
  *@QQ:28701884
- *@version:1.5.2
+ *@version:0.0.1
  
  
  */
@@ -164,23 +164,6 @@ B.lastIndexOf = function(array, item, from) {
     while (i--) if (array[i] === item) return i;
     return -1;
 };
-  
-  
-  
-  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
 //*** 判断 *** //
 //判断对象类型类型
