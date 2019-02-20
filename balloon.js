@@ -165,23 +165,6 @@ B.lastIndexOf = function(array, item, from) {
     return -1;
 };
   
-  
-  
-  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
 //*** 判断 *** //
 //判断对象类型类型
 B.typeof = function(obj){
